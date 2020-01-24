@@ -68,7 +68,11 @@ namespace Karaoke {
                 156,
                 164,
                 171,
-                180
+                180,
+                189,
+                197,
+                206,
+                214
             };
             var listaCambiosTextos = new List<String>() {
                 "We're no strangers to love\nYou know the rules\nand so do I",
@@ -87,6 +91,10 @@ namespace Karaoke {
                 "We've known eachother\nfor so long\nYour heart's been aching but\nyou're too shy to say it",
                 "Inside we both know\nwhat's been going on\nWe know the game and we're\ngonna play it",
                 "I just wanna tell you\nhow I'm feeling\nGotta make you\nunderstand",
+                "Never gonna give you up\nNever gonna let you down\nNever gonna run around and\ndesert you",
+                "Never gonna make you cry\nNever gonna say goodbye\nNever gonna tell a lie\nand hurt you",
+                "Never gonna give you up\nNever gonna let you down\nNever gonna run around and\ndesert you",
+                "Never gonna make you cry\nNever gonna say goodbye\nNever gonna tell a lie\nand hurt you",
                 "Never gonna give you up\nNever gonna let you down\nNever gonna run around and\ndesert you",
                 "Never gonna make you cry\nNever gonna say goodbye\nNever gonna tell a lie\nand hurt you",
             };
